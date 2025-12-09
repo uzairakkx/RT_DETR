@@ -1,0 +1,2 @@
+Model size (MB),Parameters,FLOPs,Inference time (ms/image),FPS
+49.59607982635498,31987850,Not supported,60.221710205078125,16.605307232136298
